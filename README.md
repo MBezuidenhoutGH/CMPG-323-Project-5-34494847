@@ -36,7 +36,7 @@
 	The student added Project 5 to his GitHub profile on day 1 and every change that has been decided to commit was committed. The branching strategy that was set up in 
 	Project 1 was followed to the T which demonstrated an iterative use of GitHub throughout Project 5 to successfully manage version control of the project. The student 
 	also did a lot of effort in providing a very well laid out README.md file by explaining everything possible to make it easier for the person trying to figure everything out.<br />
-	<br />The student started developing Project 5 on Oct 15, 2022: <br />
+	<br />The student started developing Project 5 on Oct 27, 2022: <br />
 	<br /><img src="img/control1.png" alt=""/><br />
 	The student also ensured that no credentials are available or present in the repository.
 </p>
